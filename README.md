@@ -5,7 +5,7 @@ Sou estudante de Computação na **Universidade de Brasília (UnB)**
 ---
 
 🚀 **O que eu ando fazendo:**
-- 🎓 Estudando Algoritmos e Programação de Computadores (APC) na UnB.
+- 🎓 Estudando Algoritmos e Programação de Computadores (APC), Formação Docente em Computação (FDC), Organização da Educação Brasileira (OEB) na UnB e Inglês no CIL 01 de Brasília.
 - 💻 Desenvolvendo o **[ProfessorIA](https://github.com/joaosainz/ProfessorIA)**, um simulador interativo focado na prática docente usando IA generativa e Python puro.
 - 🎮 Desenvolvendo na **[Mael Games Dev](https://www.maelgames.x10.mx/home/)**, uma desenvolvedora de jogos para Celular e Computador usando TurboWarp e Kotlin.
 - 🤖 Explorando desenvolvimento de Bots para Discord.
