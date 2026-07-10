@@ -1,25 +1,42 @@
 ### Olá, eu sou o João Sainz! 👋
 
-Sou estudante de Computação na **Universidade de Brasília (UnB)** e um desenvolvedor apaixonado por criar interfaces modernas e integrar Inteligência Artificial no dia a dia das pessoas. Acredito que o código limpo e um bom design andam sempre juntos.
+Sou estudante de Computação na **Universidade de Brasília (UnB)** 
+
+---
 
 🚀 **O que eu ando fazendo:**
 - 🎓 Estudando Algoritmos e Programação de Computadores (APC) na UnB.
-- 💻 Desenvolvendo o **[ProfessorIA](link-do-seu-repositorio-aqui)**, um simulador interativo focado na prática docente usando IA generativa e Python puro.
-- 🎨 Explorando UI/UX Design aplicado a bibliotecas nativas como Tkinter.
+- 💻 Desenvolvendo o **[ProfessorIA](https://github.com/joaosainz/ProfessorIA)**, um simulador interativo focado na prática docente usando IA generativa e Python puro.
+- 🎮 Desenvolvendo na **[Mael Games Dev](https://www.maelgames.x10.mx/home/)**, uma desenvolvedora de jogos para Celular e Computador usando TurboWarp e Kotlin.
+- 🤖 Explorando desenvolvimento de Bots para Discord.
+
+---
 
 🛠️ **Minhas Ferramentas & Tecnologias:**
-- **Linguagens:** Python, [adicione outras como C, Java, etc]
+- **Linguagens:** Python (Estudando), JavaScript (Começando), Kotlin (Iniciante) e Html/Css
 - **Design & UI:** Flat Design, CustomTkinter, Tkinter
-- **Áreas de Interesse:** Inteligência Artificial, Prompt Engineering, Front-end Desktop
+- **Áreas de Interesse:** Inteligência Artificial, Prompt Engineering, Front-end Desktop, Discord Bots, Games
 
-💡 **Um pouco mais sobre mim:**
-Faço parte da equipe *Garotos de Programa* da disciplina APC 06 da UnB. Adoro transformar ideias complexas em softwares simples, leves e fáceis de usar.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Turbowarp-ASBR14E?style=for-the-badge&logo=turbowarp&logoColor=white" alt="TurboWarp" />
+  <img src="https://img.shields.io/badge/Discord Bots-124836?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
+
+---
 
 📫 **Como me encontrar:**
-- [LinkedIn](link-do-seu-linkedin)
-- [E-mail](mailto:seu-email@exemplo.com)
+- [E-mail](mailto:joao.sainz@aluno.unb.br)
 
 ---
 <p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=joaosainz&color=00B37E&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
+
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joaosainz&theme=dark&hide_border=true&background=121214&ring=00B37E&fire=00B37E&currStreakNum=e1e1e6" alt="GitHub Streak" />
 </p>
