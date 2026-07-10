@@ -13,8 +13,8 @@ Sou estudante de Computação na **Universidade de Brasília (UnB)**
 ---
 
 🛠️ **Minhas Ferramentas & Tecnologias:**
-- **Linguagens:** Python (Estudando), JavaScript (Começando), Kotlin (Iniciante) e Html/Css
-- **Design & UI:** Flat Design, CustomTkinter, Tkinter
+- **Linguagens:** Python (Estudando), JavaScript (Começando), Kotlin (Iniciante)
+- **Design & UI:** Flat Design, CustomTkinter, Tkinter, Html/Css
 - **Áreas de Interesse:** Inteligência Artificial, Prompt Engineering, Front-end Desktop, Discord Bots, Games
 
 <p align="center">
