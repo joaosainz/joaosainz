@@ -28,7 +28,10 @@ Sou estudante de Computação na **Universidade de Brasília (UnB)**
 ---
 
 📫 **Como me encontrar:**
-- [E-mail](mailto:joao.sainz@aluno.unb.br)
+
+<p align="center">
+  <a href="mailto:joao.sainz@aluno.unb.br"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+</p>
 
 ---
 <p align="center">
