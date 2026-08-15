@@ -14,7 +14,7 @@ I'm a Computer Science student at the **University of Brasília (UnB)**
 ---
 
 🛠️ **My Tools & Technologies:**
-- **Languages:** Python (Studying), C (Starting), Kotlin (Beginner)
+- **Languages:** Python, C (Starting), Kotlin (Beginner)
 - **Design & UI:** Flat Design, CustomTkinter, Tkinter, HTML/CSS
 - **Areas of Interest:** Artificial Intelligence, Prompt Engineering, Desktop Front-end, Discord Bots, Games
 
