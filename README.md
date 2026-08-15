@@ -13,14 +13,14 @@ I'm a Computer Science student at the **University of Brasília (UnB)**
 ---
 
 🛠️ **My Tools & Technologies:**
-- **Languages:** Python (Studying), JavaScript (Starting), Kotlin (Beginner)
+- **Languages:** Python (Studying), C (Starting), Kotlin (Beginner)
 - **Design & UI:** Flat Design, CustomTkinter, Tkinter, HTML/CSS
 - **Areas of Interest:** Artificial Intelligence, Prompt Engineering, Desktop Front-end, Discord Bots, Games
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Kotlin-00599C?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=C&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Turbowarp-ASBR14E?style=for-the-badge&logo=turbowarp&logoColor=white" alt="TurboWarp" />
   <img src="https://img.shields.io/badge/Discord%20Bots-124836?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots" />
 </p>
