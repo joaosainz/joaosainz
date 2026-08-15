@@ -5,7 +5,8 @@ I'm a Computer Science student at the **University of Brasília (UnB)**
 ---
 
 🚀 **What I'm currently working on:**
-- 🎓 Studying Algorithms and Computer Programming (APC), Computing Teacher Education (FDC), and Organization of Brazilian Education (OEB) at UnB, plus English at CIL 01 in Brasília.
+- 🎓 Studying Data Structures, Theoretical Foundations of Computing, Psychological Development and Teaching, and Calculus 1 at UnB, plus English at CIL 01 in Brasília.
+- 📃 I have already studied and completed Algorithms and Computer Programming, Computing Teacher Education, and Organization of Brazilian Education at UnB
 - 💻 Developing **[ProfessorIA](https://github.com/joaosainz/ProfessorIA)**, an interactive simulator focused on teaching practice using generative AI and pure Python.
 - 🎮 Developing at **[Mael Games Dev](https://www.maelgames.x10.mx/home/)**, a mobile and PC game development studio using TurboWarp and Kotlin.
 - 🤖 Exploring Discord Bot development.
